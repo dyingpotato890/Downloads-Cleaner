@@ -20,8 +20,8 @@ Downloads Cleaner is a simple and efficient tool to help you keep your Downloads
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dyingpotato890/Task-Automation.git
-    cd Task-Automation/Downloads\ Cleaner
+    git clone https://github.com/dyingpotato890/Downloads-Cleaner.git
+    cd Downloads-Cleaner
     ```
 
 ## Usage
